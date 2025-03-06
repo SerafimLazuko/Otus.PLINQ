@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus.PLINQ", "Otus.PLINQ\Otus.PLINQ.csproj", "{4199B4B8-D9DA-4472-8294-262C662A20BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4199B4B8-D9DA-4472-8294-262C662A20BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4199B4B8-D9DA-4472-8294-262C662A20BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4199B4B8-D9DA-4472-8294-262C662A20BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4199B4B8-D9DA-4472-8294-262C662A20BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8E0EA37-D65E-4B76-8A43-5BA695E49910}
+	EndGlobalSection
+EndGlobal
