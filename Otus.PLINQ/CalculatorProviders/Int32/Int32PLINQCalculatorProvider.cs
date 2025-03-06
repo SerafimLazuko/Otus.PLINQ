@@ -8,7 +8,7 @@ namespace Otus.PLINQ.CalculatorProviders.Int32
         public CalculationResult CalculateSum(IEnumerable<int> sequence)
         {
             var stopwatch = new Stopwatch();
-            stopwatch.Restart();
+            stopwatch.Start();
             var plinqSum = sequence.AsParallel().Sum(s => (long)s);
             stopwatch.Stop();
 

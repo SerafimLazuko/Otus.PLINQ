@@ -30,7 +30,7 @@ namespace Otus.PLINQ.CalculatorProviders.Int32
                 threads.Add(thread);
             }
 
-            stopwatch.Restart();
+            stopwatch.Start();
             foreach (var thread in threads)
             {
                 thread.Start();
